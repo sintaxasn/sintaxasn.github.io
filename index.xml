@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dcunningham.net</title>
+    <link>https://dcunningham.net/</link>
+    <description>Recent content on dcunningham.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dcunningham.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://dcunningham.net/about/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dcunningham.net/about/</guid>
+      <description>Hi, I&amp;rsquo;m Dan.
+I work in IT and I&amp;rsquo;m currently a Senior Solutions Engineer for BeyondTrust, a major player in the Privileged Access Management and Remote Access space. I&amp;rsquo;m something of a jack of all trades - I know some stuff about on-prem and cloud infrastructure, scripting / development, operations, infrastructure management and deployment, and not least of all security. I should do at least - I&amp;rsquo;ve been doing this for around 20 years.</description>
+    </item>
+    
+  </channel>
+</rss>
