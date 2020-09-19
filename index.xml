@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dcunningham.net</title>
-    <link>https://dcunningham.net/index.html</link>
+    <link>https://dcunningham.net/</link>
     <description>Recent content on dcunningham.net</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    
-	<atom:link href="https://dcunningham.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>pe="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://dcunningham.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://dcunningham.net/about/</link>
@@ -21,7 +14,8 @@
       
       <guid>https://dcunningham.net/about/</guid>
       <description>Hi, I&amp;rsquo;m Dan.
-I work in IT and I&amp;rsquo;m currently a Senior Solutions Engineer for BeyondTrust, a major player in the Privileged Access Management and Remote Access space. I&amp;rsquo;m something of a jack of all trades - I know some stuff about on-prem and cloud infrastructure, scripting / development, operations, infrastructure management and deployment, and not least of all security. I should do at least - I&amp;rsquo;ve been doing this for around 20 years.</description>
+I work in IT and I&amp;rsquo;m currently a Solutions Engineer for 1E, a major player in an emerging technology space - Realtime Endpoint Management. I&amp;rsquo;ve been involved with Endpoint Management for over 20 years, with a large focus on OS and Application Deployment, Endpoint Security, Automation and and Privileged Access Management.
+My background is system administration for a global financial services company in Dublin, Ireland, where I worked for a large portion of my career.</description>
     </item>
     
   </channel>
